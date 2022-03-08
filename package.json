@@ -1,0 +1,19 @@
+{
+  "name": "a00-michaeltrentini-1",
+  "version": "1.0.0",
+  "description": "This assignment for COMP 426 will help you get through setting up tools and installing some of the basic software you will need to have for the course. It is a walkthrough for installing and setting up your development environment, including: Node.js, Visual Studio Code, Chrome, git, and using GitHub Classroom for submissions.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/comp426-2022-spring/a00-michaeltrentini.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/comp426-2022-spring/a00-michaeltrentini/issues"
+  },
+  "homepage": "https://github.com/comp426-2022-spring/a00-michaeltrentini#readme"
+}
